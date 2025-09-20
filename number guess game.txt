@@ -1,0 +1,5 @@
+ask user to guess 
+if number is closer but if it is high
+then it gives o/p: too high
+else number is low 
+then it should give too low
